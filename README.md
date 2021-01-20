@@ -2,4 +2,4 @@
 
 CS 109 Contest Grand Prize Winner. 
 See writeup for details. 
-http://web.stanford.edu/class/cs109/psets/contest/Classifying%20Art%20using%20Probability.pdf
+https://web.stanford.edu/class/archive/cs/cs109/cs109.1212/psets/contest/Classifying%20Art%20using%20Probability.pdf
